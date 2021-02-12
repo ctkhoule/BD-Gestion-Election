@@ -1,7 +1,7 @@
 # BD-Gestion-Election
 Mise en place d'une base de données de gestion des élections 
 
-##### Soit la base de données __Gestion_Election__ dont le schéma relationnel est donné ci-dessous :
+## Soit la base de données __Gestion_Election__ dont le schéma relationnel est donné ci-dessous :
 
 
 Election (__Type__, __Annee__, Jour, Numero, Mois)
