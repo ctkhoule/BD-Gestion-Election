@@ -1,4 +1,4 @@
-# BD-Gestion-Election
+# BD-Gestion-Election ORACLE
 Mise en place d'une base de données de gestion des élections 
 
 ## Soit la base de données __Gestion_Election__ dont le schéma relationnel est donné ci-dessous :
